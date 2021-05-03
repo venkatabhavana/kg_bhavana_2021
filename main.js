@@ -1,4 +1,4 @@
-var x = [1, 2, 3]
+var x = process.argv.slice(2);
 
 var i;
 var output = "";
